@@ -1,6 +1,8 @@
-# TokTok
+# TokTok (A Stacks AI Guild Submission)
 
 > **Think Global, Act LOCAL** - Onboarding the next million Nigerian Bitcoin millionaires in their native tongue: Pidgin.
+
+**Special thanks to PeaceLoveMusic, GPSC, 3Hunna, Hero, Haddy, JackbinSwitch, Rocky and the entire Stacks AI Guild for making this possible**
 
 ## 🚀 Live Demo
 **[Try TokTok Now → http://pidginonstacks.carrd.co](http://pidginonstacks.carrd.co)**
