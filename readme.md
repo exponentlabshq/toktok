@@ -2,6 +2,13 @@
 
 > **Think Global, Act LOCAL** - Onboarding the next million Nigerian Bitcoin millionaires in their native tongue: Pidgin.
 
+## 🚀 Live Demo
+**[Try TokTok Now → http://pidginonstacks.carrd.co](http://pidginonstacks.carrd.co)**
+
+![TokTok App Screenshot](screenshot-app.png)
+
+![sBTC Payment Demo](sbtc-payment.gif)
+
 ## About
 
 TokTok is a revolutionary Bitcoin payment application designed specifically for the Nigerian market, built on the Stacks blockchain with sBTC integration. Our mission is to bridge the gap between traditional financial systems and Bitcoin adoption by providing an intuitive, culturally-appropriate interface that speaks to users in Pidgin English.
@@ -20,13 +27,6 @@ TokTok is a revolutionary Bitcoin payment application designed specifically for 
 - **Payment Processing**: sBTC Pay
 - **Token Standard**: SIP-010 compliant fungible tokens
 - **Cross-Chain**: Bitcoin ↔ Stacks bridge functionality
-
-## 🚀 Live Demo
-**[Try TokTok Now → http://pidginonstacks.carrd.co](http://pidginonstacks.carrd.co)**
-
-![TokTok App Screenshot](screenshot-app.png)
-
-![sBTC Payment Demo](sbtc-payment.gif)
 
 ## Think Global, Act LOCAL
 
