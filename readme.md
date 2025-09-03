@@ -6,6 +6,13 @@ Created for the Dora Hacks Stacks sBTC Hackathon September 4, 2025.
 
 **Special thanks to PeaceLoveMusic, GPSC, 3Hunna, Hero, Haddy, JackbinSwitch, CryptoDude, Rocky and the entire Stacks AI Guild for making this possible**
 
+## Team 🇳🇬🇨🇦🇬🇾
+
+- tomm_yblack.btc
+- tinderlyonx.btc
+- Jrmaya.btc
+- Blockface.btc
+
 ## 🚀 Live Demo
 **[Try TokTok Now → http://pidginonstacks.carrd.co](http://pidginonstacks.carrd.co)**
 
