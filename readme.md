@@ -1,5 +1,7 @@
 # TokTok (A Stacks AI Guild Submission)
 
+Created for the Dora Hacks Stacks sBTC Hackathon September 4, 2025.
+
 > **Think Global, Act LOCAL** - Onboarding the next million Nigerian Bitcoin millionaires in their native tongue: Pidgin.
 
 **Special thanks to PeaceLoveMusic, GPSC, 3Hunna, Hero, Haddy, JackbinSwitch, Rocky and the entire Stacks AI Guild for making this possible**
@@ -7,9 +9,9 @@
 ## 🚀 Live Demo
 **[Try TokTok Now → http://pidginonstacks.carrd.co](http://pidginonstacks.carrd.co)**
 
-![TokTok App Screenshot](screenshot-app.png)
+![TokTok App Screenshot](assets/screenshot-app.png)
 
-![sBTC Payment Demo](sbtc-payment.gif)
+![sBTC Payment Demo](assets/sbtc-payment.gif)
 
 ## About
 
@@ -58,11 +60,13 @@ TokTok is powered by **sBTC Pay**, a revolutionary Bitcoin payment gateway that 
 - **Developer**: [@kai_builder](https://x.com/kai_builder)
 - **Documentation**: [sBTC Pay Documentation](https://sbtcpay.org/docs)
 
+![sBTC Pay Merchant Backend](assets/sbtcpayorg-merchant-backend.png)
+
 ## 🔧 Technical Implementation
 
 ### sBTC Clarity Contract (author: @kai_builder on X | http://www.sbtcpay.org)
 
-TokTok is built on the Stacks blockchain using a custom Clarity smart contract (`sbtcpayorg.clar`) that implements sBTC (Stacks Bitcoin) functionality:
+TokTok is built on the Stacks blockchain using a custom Clarity smart contract (`smart-contracts/sbtcpayorg.clar`) that implements sBTC (Stacks Bitcoin) functionality:
 
 #### Key Features:
 - **Dual Token System**: Implements both `sbtc-token` (available) and `sbtc-token-locked` (locked) fungible tokens
@@ -84,9 +88,9 @@ The contract integrates with the sBTC registry for secure cross-chain Bitcoin op
 
 See TokTok in action with our comprehensive usage demonstrations:
 
-![TokTok Usage Demo](usage.gif)
+![TokTok Usage Demo](assets/usage.gif)
 
-![TokTok Usage Screenshot](usage-2.png)
+![TokTok Usage Screenshot](assets/usage-2.png)
 
 These demonstrations show the complete user journey through TokTok's Pidgin English interface, showcasing how Nigerian users can seamlessly interact with Bitcoin and sBTC through our intuitive, culturally-appropriate design.
 
