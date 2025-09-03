@@ -9,6 +9,8 @@ Created for the Dora Hacks Stacks sBTC Hackathon September 4, 2025.
 ## 🚀 Live Demo
 **[Try TokTok Now → http://pidginonstacks.carrd.co](http://pidginonstacks.carrd.co)**
 
+## 🚀 BONUS: Haute Couture with sBTC: https://haute-portrait-boutique.lovable.app/
+
 ![TokTok App Screenshot](assets/screenshot-app.png)
 
 ![sBTC Payment Demo](assets/sbtc-payment.gif)
