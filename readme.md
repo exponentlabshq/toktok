@@ -6,7 +6,7 @@ Created for the Dora Hacks Stacks sBTC Hackathon September 4, 2025.
 
 **Special thanks to PeaceLoveMusic, GPSC, 3Hunna, Hero, Haddy, JackbinSwitch, CryptoDude, Rocky and the entire Stacks AI Guild for making this possible**
 
-## Team 🇳🇬🇨🇦🇬🇾
+## 👥 Team 🇳🇬🇨🇦🇬🇾
 
 - tomm_yblack.btc
 - tinderlyonx.btc
@@ -22,19 +22,19 @@ Created for the Dora Hacks Stacks sBTC Hackathon September 4, 2025.
 
 ---
 
-# THE BUSINESS PART
+# 💼 THE BUSINESS PART
 
-## About
+## ℹ️ About
 
 **According to a 2020 online survey, 32% of participating Nigerians used cryptocurrencies. With a total cryptocurrency transaction volume amounting to $400M, Nigeria ranks third after the United States and Russia according to 2020 estimates.**
 
 TokTok is reimagining what it truly means to think globally and act locally. Our mission is to bridge the gap between traditional financial systems and Bitcoin adoption by providing an intuitive, culturally-appropriate interface that speaks to users in Pidgin English.
 
-## Think Global, Act LOCAL
+## 🌍 Think Global, Act LOCAL
 
 **Onboarding the next million Nigerian Bitcoin millionaires in their native tongue: Pidgin.**
 
-### Problem-Worth Solving | Job-to-be-Done
+### ❓ Problem-Worth Solving | Job-to-be-Done
 
 What we have is a problem to communicate.
 
@@ -42,7 +42,7 @@ Do you know how Mr. Beast blew up? By thinking globally and acting locally.
 
 Mr. Beast blew up because he hired well-known actors to re-dub his voice on his videos. There are stories of him hiring the voice actor for Spider-Man to re-dub his voice in different countries.
 
-### Solution
+### 🧩 Solution
 
 What the learner learns is a function of what they already know.
 - The Kullback-Leibler Divergence
@@ -55,7 +55,7 @@ Acting globally and thinking locally is how we onboard the next million Nigerian
 
 * The country's regulatory environment and the increasing number of crypto exchanges have facilitated the growth of cryptocurrency adoption and investment.
 
-### Key Features
+### ✨ Key Features
 - 🌍 **Pidgin English Interface**: Native language support for Nigerian users
 - 💰 **sBTC Integration**: Seamless Bitcoin-to-Stacks transactions
 - 🔒 **Secure Smart Contracts**: Built on Stacks blockchain with Clarity via sbtcpay.org
@@ -65,9 +65,9 @@ Acting globally and thinking locally is how we onboard the next million Nigerian
 
 ---
 
-# THE TECHNICAL PART - PAYMENT GATEWAY DEEP DIVE
+# 🛠️ THE TECHNICAL PART - PAYMENT GATEWAY DEEP DIVE
 
-### Technology Stack
+### 🧰 Technology Stack
 - **Blockchain**: Stacks (Bitcoin Layer 2)
 - **Smart Contracts**: Clarity
 - **Payment Processing**: sBTC Pay
