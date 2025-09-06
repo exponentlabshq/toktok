@@ -24,14 +24,16 @@ Created for the Dora Hacks Stacks sBTC Hackathon September 4, 2025.
 
 ## About
 
-TokTok is a revolutionary Bitcoin payment application designed specifically for the Nigerian market, built on the Stacks blockchain with sBTC integration. Our mission is to bridge the gap between traditional financial systems and Bitcoin adoption by providing an intuitive, culturally-appropriate interface that speaks to users in Pidgin English.
+**According to a 2020 online survey, 32% of participating Nigerians used cryptocurrencies. With a total cryptocurrency transaction volume amounting to $400M, Nigeria ranks third after the United States and Russia according to 2020 estimates.**
+
+TokTok is reimagining what it truly means to think globally and act locally. Our mission is to bridge the gap between traditional financial systems and Bitcoin adoption by providing an intuitive, culturally-appropriate interface that speaks to users in Pidgin English.
 
 ### Key Features
 - 🌍 **Pidgin English Interface**: Native language support for Nigerian users
 - 💰 **sBTC Integration**: Seamless Bitcoin-to-Stacks transactions
-- 🔒 **Secure Smart Contracts**: Built on Stacks blockchain with Clarity
-- 💳 **Payment Gateway**: Powered by sBTC Pay for simple Bitcoin payments
-- 📱 **Mobile-First Design**: Optimized for smartphone usage
+- 🔒 **Secure Smart Contracts**: Built on Stacks blockchain with Clarity via sbtcpay.org
+- 💳 **Payment Gateway**: Powered by sBTCpay.org for simple Bitcoin payments
+- 📱 **Mobile-First Design**: Optimized for smartphone usage via Carrd, an affordable solution for Nigerian Developers to get their apps off the ground without breaking the bank
 - 🧪 **Testnet Ready**: Safe testing environment for development
 
 ### Technology Stack
