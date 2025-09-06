@@ -16,8 +16,6 @@ Created for the Dora Hacks Stacks sBTC Hackathon September 4, 2025.
 ## 🚀 Live Demo
 **[Try TokTok Now → http://pidginonstacks.carrd.co](http://pidginonstacks.carrd.co)**
 
-## 🚀 BONUS: Haute Couture with sBTC: https://haute-portrait-boutique.lovable.app/
-
 ![TokTok App Screenshot](assets/screenshot-app.png)
 
 ![sBTC Payment Demo](assets/sbtc-payment.gif)
@@ -189,3 +187,5 @@ Bitcoin Adoption by Country: https://plasbit.com/blog/bitcoin-adoption-by-countr
 * The country's regulatory environment and the increasing number of crypto exchanges have facilitated the growth of cryptocurrency adoption and investment.
 
 ---
+
+## 🚀 BONUS: Haute Couture with sBTC: https://haute-portrait-boutique.lovable.app/
